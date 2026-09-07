@@ -1,0 +1,19 @@
+# Raw datasets
+data/
+
+# Trained model artifacts
+model/
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Serialized model files
+*.pkl
+*.joblib
+*.h5
